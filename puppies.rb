@@ -6,6 +6,7 @@ def no_puppies(amount_of_puppies)
    puts "No more puppies!"
  end   
 end 
+
 no_puppies(1)
 no_puppies(0)
 
